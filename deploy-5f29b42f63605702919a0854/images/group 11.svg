@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Group_11" data-name="Group 11" transform="translate(-1108 -1613)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="40" height="40" transform="translate(1138 1613)" fill="#f17d14" opacity="0.59"/>
+    <g id="Outline" transform="translate(1106 1621)">
+      <g id="Group_10" data-name="Group 10">
+        <path id="Path_7" data-name="Path 7" d="M27.72,25.375a1,1,0,1,0,.729-1.862A7,7,0,0,1,31.037,10l.147.007a.961.961,0,0,0,.912-.545,9.984,9.984,0,0,1,17.926.246,1,1,0,0,0,1.163.536,7,7,0,1,1,2.549,13.714,1,1,0,1,0,.1,2,.923.923,0,0,0,.1-.006A9,9,0,0,0,53,8a8.727,8.727,0,0,0-1.542.139,11.981,11.981,0,0,0-20.846-.131A9,9,0,0,0,27.72,25.375Z"/>
+        <path id="Path_8" data-name="Path 8" d="M23,55a1,1,0,0,0-1,1v2a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2V34a2,2,0,0,1,2-2H20a2,2,0,0,1,2,2v2a1,1,0,0,0,2,0V34a4,4,0,0,0-4-4H6a4,4,0,0,0-4,4V58a4,4,0,0,0,4,4H20a4,4,0,0,0,4-4V56A1,1,0,0,0,23,55Z"/>
+        <path id="Path_9" data-name="Path 9" d="M29,39H21.414l-1.707-1.707A1,1,0,0,0,19,37H13a1,1,0,0,0-1,1V52a1,1,0,0,0,1,1H29a1,1,0,0,0,1-1V40A1,1,0,0,0,29,39ZM18.586,39l1.707,1.707A1,1,0,0,0,21,41h7v2H14V39ZM28,51H14V45H28Z"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="1" cy="1" r="1" transform="translate(6 34)"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="1" cy="1" r="1" transform="translate(10 34)"/>
+        <path id="Path_10" data-name="Path 10" d="M9,57a1,1,0,0,0,1,1h6a1,1,0,0,0,0-2H10A1,1,0,0,0,9,57Z"/>
+        <path id="Path_11" data-name="Path 11" d="M39,35a1,1,0,0,0-1,1v9H33a1,1,0,0,0,0,2h6a1,1,0,0,0,1-1V36A1,1,0,0,0,39,35Z"/>
+        <path id="Path_12" data-name="Path 12" d="M9,28a1,1,0,0,0,1-1V18h7a1,1,0,0,0,0-2H9a1,1,0,0,0-1,1V27A1,1,0,0,0,9,28Z"/>
+        <circle id="Ellipse_10" data-name="Ellipse 10" cx="1" cy="1" r="1" transform="translate(46 56)"/>
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="1" cy="1" r="1" transform="translate(50 56)"/>
+        <path id="Path_13" data-name="Path 13" d="M55,56a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2Z"/>
+        <path id="Path_14" data-name="Path 14" d="M61,44H43a1,1,0,0,0-1,1V61a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V57a1,1,0,0,0-2,0v3H44V54H61a1,1,0,0,0,1-1V45A1,1,0,0,0,61,44Zm-1,8H44V46H60Z"/>
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="1" cy="1" r="1" transform="translate(46 48)"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="1" cy="1" r="1" transform="translate(50 48)"/>
+        <path id="Path_15" data-name="Path 15" d="M55,50h2a1,1,0,0,0,0-2H55a1,1,0,0,0,0,2Z"/>
+        <path id="Path_16" data-name="Path 16" d="M59,42a1,1,0,0,0,1-1V31a1,1,0,0,0-1-1H51a1,1,0,0,0,0,2h7v9A1,1,0,0,0,59,42Z"/>
+        <path id="Path_17" data-name="Path 17" d="M45.95,22.682a1,1,0,0,0,.707-1.707,8,8,0,0,0-11.314,0,1,1,0,1,0,1.414,1.414,6,6,0,0,1,8.486,0A1,1,0,0,0,45.95,22.682Z"/>
+        <path id="Path_18" data-name="Path 18" d="M43.121,25.51a1,1,0,0,0,.707-1.707,4,4,0,0,0-5.656,0,1,1,0,1,0,1.414,1.414,2,2,0,0,1,2.828,0,.993.993,0,0,0,.707.293Z"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="1" cy="1" r="1" transform="translate(40 26.632)"/>
+        <path id="Path_19" data-name="Path 19" d="M51,23a9.966,9.966,0,0,0-1.541-5.317,1,1,0,1,0-1.692,1.065,8.021,8.021,0,1,1-2.515-2.515,1,1,0,1,0,1.065-1.692A9.993,9.993,0,1,0,51,23Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

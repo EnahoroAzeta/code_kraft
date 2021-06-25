@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="621" height="382" viewBox="0 0 621 382">
+  <g id="Group_15" data-name="Group 15" transform="translate(-1102 -2780)">
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="191" cy="191" r="191" transform="translate(1102 2780)" fill="#ed984b" opacity="0.43"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="191" cy="191" r="191" transform="translate(1341 2780)" fill="#fff" opacity="0.47"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M2878,701a190.658,190.658,0,0,1,71.5-149.008,191.017,191.017,0,0,1,0,298.015A190.658,190.658,0,0,1,2878,701Z" transform="translate(-1537 2270)" fill="#ef6c00"/>
+    <text id="Software" transform="translate(1122 2984)" fill="#fff" font-size="29" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">Software</tspan></text>
+    <text id="CodeKraft" transform="translate(1346 2981)" fill="#fff" font-size="27" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0">CodeKraft</tspan></text>
+    <text id="Organization_goals" data-name="Organization goals" transform="translate(1545 2956)" fill="#fff" font-size="27" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="25">Organization </tspan><tspan x="0" y="56">goals</tspan></text>
+  </g>
+</svg>
